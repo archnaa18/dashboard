@@ -1,7 +1,7 @@
 import React from "react";
 import Logo from "../assets/orgLogo.png";
-import { BiBox, BiCalendar, BiCameraMovie, BiCart, BiCheckboxSquare, BiClipboard, BiCloset, BiCube, BiDisc, BiHome, BiListOl, BiPaperclip, BiSolidTShirt, BiSolidTerminal, BiSolidTruck, BiTask } from "react-icons/bi";
-import { Bs0CircleFill, BsFillDatabaseFill, BsFillEnvelopePaperFill, BsFillPersonFill } from "react-icons/bs";
+import { BiCalendar, BiCart, BiCloset, BiCube,BiHome, BiListOl, BiSolidTShirt, BiSolidTruck, BiTask } from "react-icons/bi";
+import { Bs0CircleFill, BsFillDatabaseFill, BsFillPersonFill } from "react-icons/bs";
 import "../Styles/SideBar.css";
 const SideBar=()=>{
     return(

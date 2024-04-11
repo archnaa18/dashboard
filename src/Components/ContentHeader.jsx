@@ -1,9 +1,9 @@
 import React from "react";
-import { AiTwotoneAppstore } from "react-icons/ai";
-import { BiNotification, BiQuestionMark, BiSearch, BiSolidArrowToBottom, BiSolidDownArrowAlt, BiSolidDownArrowSquare } from "react-icons/bi";
-import { BsPersonCircle, BsPersonSquare, BsQuestionCircle } from "react-icons/bs";
+
+import {  BiSearch, } from "react-icons/bi";
+import { BsQuestionCircle } from "react-icons/bs";
 import { FiCommand } from "react-icons/fi";
-import { HiDocument, HiOutlineBell, HiOutlineChevronDown } from "react-icons/hi";
+import { HiOutlineBell, HiOutlineChevronDown } from "react-icons/hi";
 import { HiMiniDocument, HiMiniUserCircle, HiOutlineArrowUpOnSquare } from "react-icons/hi2";
 const ContentHeader = () => {
     return (
