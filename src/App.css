@@ -1,0 +1,15 @@
+.dasboard{
+  display: flex;
+  max-width: 100% !important;
+  /* gap: 20px; */
+}
+.dashboard-content{
+  max-width: 100% !important;
+  background: #fff;
+  flex: 1;
+  /* border-radius: 20px; */
+  padding: 0rem;
+  display: flex;
+  gap: 1.5rem;
+  justify-content: space-between;
+}
