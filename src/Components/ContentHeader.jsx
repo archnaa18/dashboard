@@ -1,7 +1,7 @@
 import React from "react";
 
-import {  BiSearch, } from "react-icons/bi";
-import { BsQuestionCircle } from "react-icons/bs";
+import {  BiSearch} from "react-icons/bi";
+import {  BsQuestionCircle } from "react-icons/bs";
 import { FiCommand } from "react-icons/fi";
 import { HiOutlineBell, HiOutlineChevronDown } from "react-icons/hi";
 import { HiMiniDocument, HiMiniUserCircle, HiOutlineArrowUpOnSquare } from "react-icons/hi2";

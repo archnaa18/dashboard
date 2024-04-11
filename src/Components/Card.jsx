@@ -1,9 +1,9 @@
 import React from "react";
 import { CardData } from "../Data/CardData";
-import { BiChevronDown, BiChevronLeft, BiChevronRight, BiPlus, BiSearch } from "react-icons/bi";
-import { BsFillCircleFill} from "react-icons/bs";
+import {  BiChevronDown, BiChevronLeft,BiChevronRight, BiPlus, BiSearch } from "react-icons/bi";
+import { BsFillCircleFill } from "react-icons/bs";
 import "../Styles/Card.css";
-import { HiMiniArrowLongLeft, HiMiniArrowLongRight,HiMiniMagnifyingGlassPlus, HiOutlineFilm, HiOutlineTableCells, HiSquares2X2 } from "react-icons/hi2";
+import { HiMiniArrowLongLeft, HiMiniArrowLongRight,  HiMiniMagnifyingGlassPlus, HiOutlineFilm, HiOutlineTableCells, HiSquares2X2 } from "react-icons/hi2";
 import { HiOutlineCog, HiOutlineSparkles, HiOutlineUsers } from "react-icons/hi";
 const Card = () => {
     return (

@@ -1,6 +1,6 @@
 import React from "react";
 import Logo from "../assets/orgLogo.png";
-import { BiCalendar, BiCart, BiCloset, BiCube,BiHome, BiListOl, BiSolidTShirt, BiSolidTruck, BiTask } from "react-icons/bi";
+import {BiCalendar,BiCart, BiCloset, BiCube,  BiHome, BiListOl,  BiSolidTShirt, BiSolidTruck, BiTask } from "react-icons/bi";
 import { Bs0CircleFill, BsFillDatabaseFill, BsFillPersonFill } from "react-icons/bs";
 import "../Styles/SideBar.css";
 const SideBar=()=>{
